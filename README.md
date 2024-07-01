@@ -4,6 +4,9 @@
 
 This data analysis project aims to provide insights into the Absenteeism performance  over the work. By analyzing various aspects of data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
+![Dashboard](https://github.com/Omer-etiwie/work_incentive_program/assets/171517937/8f7b3ace-1d5a-43dd-8da1-4ca98552da11)
+
+
 ### Data Sources
 
 Data: The primary dataset used for this analysis is the "Absenteeism_at_work.csv", "compensation.csv" and "Reasons.csv"
@@ -19,6 +22,9 @@ In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
 2. Handling missing values.
 3. Data cleaning and formatting
+
+![screenshot](https://github.com/Omer-etiwie/work_incentive_program/assets/171517937/a75ee726-36da-4dd7-ac60-8a6eceea89ea)
+
 
 ### Exploratory Data Analysis
 
